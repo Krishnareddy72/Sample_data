@@ -1,0 +1,79 @@
+{
+            Name: "AshoK Reddy",
+            Electronics: [
+                {
+                    name: "Samsung TV",
+                    Price: "29999",
+
+                },
+                {
+                    name: "LG TV",
+                    Price: "29999"
+                },
+                {
+                    name: "Philips Trimmer",
+                    Price: "1499"
+                },
+                {
+                    name: "IFB Washing Mechane",
+                    Price: "14999"
+                },
+                {
+                    name: "Boach Washing Mechane",
+                    Price: "17999"
+                },
+                {
+                    name: "VOLTAS AC",
+                    Price: "35499"
+                },
+            ],
+            Mobiles: [
+                {
+                    name: "MI note7",
+                    Price: "9999"
+                },
+                {
+                    name: "Vivo v9",
+                    Price: "27999"
+                },
+                {
+                    name: "Oppo note5",
+                    Price: "12499"
+                },
+                {
+                    name: "Nokia 6",
+                    Price: "14999"
+                },
+                {
+                    name: "Iphone X",
+                    Price: "77999"
+                },
+                {
+                    name: "HTC Desire 620",
+                    Price: "35499"
+                },
+            ],
+            Sports: [
+                {
+                    name: "MRF Cricket Bat",
+                    Price: "5000"
+                },
+                {
+                    name: "Yonax bat",
+                    Price: "7499"
+                },
+                {
+                    name: "PUMA FootBall Shoe",
+                    Price: "12499"
+                },
+                {
+                    name: "PUMA Running Shoe",
+                    Price: "4999"
+                },
+                {
+                    name: "RASCO Combo Blue Star Football",
+                    Price: "599"
+                },
+
+            ],
+        }
